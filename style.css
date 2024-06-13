@@ -82,12 +82,10 @@ a {
 }
 
 .about-me h3 {
-  font-size: 3rem;
-  margin: 0 0 0.5em;
+  font-size: 2.5rem;
 }
-
 .about-me p {
-  font-size: 1.3rem;
+  font-size: 1.1rem;
 }
 
 .about-me-icons {
@@ -201,9 +199,6 @@ a {
 
 @media only screen and (max-width: 1200px) {
   /* About Me section */
-  .my-img img {
-    height: 75vmin;
-  }
   .about-section {
     padding: 1.5em;
   }
@@ -314,6 +309,7 @@ a {
     position: relative;
     width: 40vw;
   }
+
   .my-img img {
     float: none;
     width: 100%;
@@ -362,20 +358,24 @@ a {
     text-align: center;
   }
 
+  .about-me-icons {
+    justify-content: center;
+  }
   .about-me-icons i {
     font-size: 3rem;
     margin: 0.3em;
   }
 
-  .my-work h3 {
-    text-align: center;
-    font-size: 2.5rem;
-  }
   /* my work section */
 
   .my-work {
     margin-top: 38em;
     padding: 3em 1em;
+  }
+
+  .my-work h3 {
+    text-align: center;
+    font-size: 2.5rem;
   }
 
   /* Contact me section */
