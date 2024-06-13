@@ -106,7 +106,6 @@ a {
 
 /* My work Section */
 .my-work {
-  /* margin: 1.5em 0; */
   padding: 3em 3em;
 }
 .my-work h3 {
@@ -418,12 +417,12 @@ a {
   }
   /* end of contact me section */
 }
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 428px) {
   /*Small smartphones [325px -> 425px]*/
   /* my work section */
 
   .my-work {
-    margin-top: 40em;
+    margin-top: 38em;
   }
   .contact-me-content {
     width: auto;
