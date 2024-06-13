@@ -168,10 +168,6 @@ a {
   gap: 30px;
 }
 
-.contact-me-content {
-  width: 50%;
-}
-
 .contact-me-content h3 {
   font-size: 2rem;
   margin: 0 0 0.8em;
@@ -376,7 +372,7 @@ a {
   /* my work section */
 
   .my-work {
-    margin-top: 15.5em;
+    margin-top: 38em;
     padding: 3em 1em;
   }
 
@@ -397,7 +393,6 @@ a {
     padding: 0;
   }
   .contact-me-content {
-    width: 0%;
     padding: 3em 3em;
   }
 
