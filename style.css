@@ -75,7 +75,6 @@ a {
   position: relative;
   background-color: #ffffff;
   width: 60%;
-  /* height: 50vh; */
   padding: 1.5em 0.5em;
   -webkit-box-shadow: -2px -1px 15px 7px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: -3px -2px 30px 14px rgba(0, 0, 0, 0.425);
@@ -95,6 +94,7 @@ a {
   display: flex;
   justify-content: end;
   align-items: center;
+  margin-top: 3em;
 }
 
 .about-me-icons i {
@@ -362,12 +362,6 @@ a {
     text-align: center;
   }
 
-  .about-me-icons {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 3em;
-  }
   .about-me-icons i {
     font-size: 3rem;
     margin: 0.3em;
