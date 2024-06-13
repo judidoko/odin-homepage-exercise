@@ -34,7 +34,7 @@ a {
   width: 100%;
 }
 
-.about_sub-section {
+.about_background-section {
   content: "";
   position: absolute;
   bottom: -3px;
@@ -177,10 +177,15 @@ a {
   font-size: 1.5rem;
 }
 
+.contact-me-content a {
+  text-decoration: underline;
+}
+
 .contact-icons {
   height: 40px;
   text-decoration: underline;
 }
+
 .contact-me-container-img {
   width: 50%;
   height: 440px;
@@ -305,6 +310,10 @@ a {
     height: 70vh;
   }
 
+  .about_background-section {
+    height: 200px;
+  }
+
   .my-img {
     position: relative;
     width: 40vw;
@@ -396,10 +405,6 @@ a {
   }
   .contact-me-content {
     padding: 3em 3em;
-  }
-
-  .contact-me-content a {
-    text-decoration: underline;
   }
 
   .contact-me-icons {
