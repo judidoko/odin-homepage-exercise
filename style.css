@@ -174,7 +174,7 @@ a {
 .contact-me-content p {
   margin: 1.2em 0;
   letter-spacing: 2px;
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 
 .contact-me-content a {
@@ -281,12 +281,6 @@ a {
 
   .contact-me-container-img {
     height: 300px;
-  }
-
-  .contact-me-content p {
-    margin: 1em 0;
-    letter-spacing: 2px;
-    font-size: 1.5rem;
   }
 
   .contact-icons {
