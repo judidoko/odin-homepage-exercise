@@ -34,7 +34,7 @@ a {
   width: 100%;
 }
 
-.about_background-section {
+.diagonal_background-section {
   content: "";
   position: absolute;
   bottom: -3px;
